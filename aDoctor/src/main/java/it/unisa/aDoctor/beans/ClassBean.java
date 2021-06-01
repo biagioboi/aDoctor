@@ -3,7 +3,7 @@ package it.unisa.aDoctor.beans;
 import java.util.Collection;
 import java.util.ArrayList;
 
-public final class ClassBean {
+public final class ClassBeans {
 
     private String name;
     private Collection<InstanceVariableBean> instanceVariables;
